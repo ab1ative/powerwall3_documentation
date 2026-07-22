@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="about">
+    <title>System Operation</title>
+    <shortdesc>This is a landing page for several subtopics about system operations and troubleshooting.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Powerwall 3</keyword>
+                <keyword>warnings</keyword>
+                <keyword>Tesla app</keyword>
+                <keyword>Backup Gateway</keyword>
+                <keyword>Troubleshooting</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Powerwall systems provide control and monitoring capability through the Tesla app. During normal operation, Powerwall 3 communicates with Backup Gateway 2, Gateway 3, or Backup Switch, and the Powerwall 3 On/Off switch should remain in the ON position. When troubleshooting Powerwall 3 operation, it may be necessary to turn off Powerwall 3 or refer to its LED indicator to confirm that it is operating properly.
+        </p>
+        <section id="general">
+            
+            <note type="warning">
+                <p>Do not operate Powerwall 3 unless all covers are in place.
+                </p>
+            </note>
+            
+            <note type="warning">
+                <p>Do not disconnect anything from or add anything to Powerwall 3.
+                </p>
+            </note>
+            
+            <note type="warning">
+                <p>Do not try to communicate with Powerwall 3 using third party tools or diagnostics between Powerwall and the Backup Gateway 2, Gateway 3, or Backup Switch.
+                </p>
+            </note>
+
+        </section>
+    </conbody>
+</concept>

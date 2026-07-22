@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<task id="monitoring">
+    <title>Monitoring Your System</title>
+    <shortdesc>Monitor Powerwall 3 system operation from your mobile device using the Tesla app.</shortdesc>
+    
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Powerwall 3</keyword>
+                <keyword>power usage</keyword>
+                <keyword>Tesla app</keyword>
+                <keyword>energy consumption</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <taskbody>
+        
+        <context>
+            <p>The Tesla app allows you to monitor the following from your mobile device:</p>
+            <ul>
+                <li>Real-time power usage</li>
+                <li>Energy consumption history</li>
+                <li>Relative amounts of energy used from solar, grid, and Powerwall storage</li>
+            </ul>
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>Download the latest version of the Tesla app from <xref href="https://tesla.com/support/tesla-app" format="html" scope="external">tesla.com/support/tesla-app</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>Open the Tesla app on your mobile device and sign in to your Tesla account.</cmd>
+            </step>
+            <step>
+                <cmd>Select your Powerwall system from the home screen to view system operation.</cmd>
+                <stepresult>The app displays real-time power usage, energy consumption history, and relative amounts of energy used from solar, grid, and Powerwall storage.</stepresult>
+            </step>
+        </steps>
+        
+    </taskbody>
+</task>

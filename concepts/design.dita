@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="design">
+    <title>System Design</title>
+    <shortdesc>Powerwall 3 is a fully integrated solar and battery system that stores energy from solar production. It converts energy from solar panels or Solar Roof, and its rechargeable battery pack provides energy storage for solar self-consumption, load shifting, or off-grid use. Powerwall 3 is installed with Backup Switch, Backup Gateway 2, or Gateway 3 to control the system's connection to the grid and monitor home energy consumption.
+    </shortdesc>
+    
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Powerwall 3</keyword>
+                <keyword>Whole Home Backup</keyword>
+                <keyword>Partial Home Backup</keyword>
+                <keyword>Energy storage</keyword>
+                <keyword>Gateway 3</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <conbody>
+        <section>
+            <title>Whole Home Backup System</title>
+            <p>A Powerwall 3 system for whole home backup is designed to store energy from the grid
+                or solar, and power the entire home during a grid outage. </p>
+            <p><b>Whole Home Backup with Backup Switch</b></p>
+            <image
+                href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-D9E74F5A-9475-49E9-8947-E16E2BC7729C-online-en-US.png"
+                format="png" scope="external"/>
+            <p><b>Whole Home Backup with Gateway 3 </b></p>
+            <image
+                href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-B27EA2BB-8580-40B8-ACEE-35DE5CA7AFDB-online-en-US.png"
+                format="png" scope="external"/>
+        </section>
+        <section>
+            <title>Partial Home Backup System</title>
+            <p>A Powerwall 3 system for partial home backup is designed to store energy from the grid or solar, and can power some home loads during a grid outage. These loads are selected during the system design phase, and the installer configures the system at installation to exclude all other loads from backup.
+            </p>
+            <image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-DB52A678-D30C-44CB-A289-B4DD5FC4A724-online-en-US.png" format="png" scope="external"/>
+            
+        </section>
+    </conbody>
+</concept>

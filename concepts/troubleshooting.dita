@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="backup">
+    <title>Troubleshooting</title>
+    <shortdesc>If the system is not working correctly, perform the following steps.
+    </shortdesc>
+    <conbody>
+        <note type="caution">Powerwall 3 , Backup Gateway 2, Gateway 3, and Backup Switch are not user-serviceable and must be repaired by Tesla or a Certified Installer.
+        </note>
+        <note type="warning">Do not open the deadfront cover inside the Gateway. Exposed wiring can present a risk of electrical shock.
+        </note>
+        <p>Check the LED indicator on Powerwall 3 to determine its status:
+        </p>
+        
+        <table>
+            <tgroup cols="2">
+                <colspec colname="LEDState" colwidth="1*"/>
+                <colspec colname="Indication" colwidth="2*"/>
+                <thead>
+                    <row>
+                        <entry>LED State</entry>
+                        <entry>Indication</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Solid white</entry>
+                        <entry>Normal operation
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Flashing white</entry>
+                        <entry>Powerwall 3 is idle. Will enter sleep state if no actions in progress
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Off</entry>
+                        <entry>Powerwall 3 is off or in sleep state
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Flashing red</entry>
+                        <entry>Inverter fault
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+        <p>If it is not possible to communicate with the system through the Tesla app, ensure that the home Internet connection is working. If the home Internet connection is working and communication through the Tesla app is still not possible, see <xref>tesla.com/support/energy/powerwall/mobile-app/connecting-powerwall-wi-fi</xref> for instructions to update your Wi-Fi connection.    
+        </p>
+        <p><xref href="turn_off.dita">Turning the System Off</xref>If Powerwall 3 is unresponsive, it may be necessary to turn off or power cycle the system. Note that power cycling the system must be done in the proper sequence as defined below.</p>
+        <p><xref href="backup.dita">Backup Troubleshooting</xref></p>
+    </conbody>
+</concept>

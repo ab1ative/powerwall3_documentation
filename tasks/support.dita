@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="support">
+    <title>Technical Support</title>
+    <shortdesc>Steps regarding how to contact the Support team.</shortdesc>
+    <taskbody>
+        <context>
+            <p>If you need further assistance, contact the Tesla Support team via the Contact Us page:
+            </p>
+            <p><xref>tesla.com/support/energy/more/additional-support/contact-us</xref></p>
+            <p>Have the following information available when contacting Tesla:    
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Owner name
+                </cmd>
+            </step>
+            <step>
+                <cmd>Best way for Tesla to contact you (name, phone number, email)
+                </cmd>
+            </step>
+            <step>
+                <cmd>Powerwall 3 and Backup Gateway 2 / Gateway 3 / Backup Switch serial numbers (see <xref href="info.dita">System Information</xref>)
+                </cmd>
+            </step>
+            <step>
+                <cmd>Brief description of the issue
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

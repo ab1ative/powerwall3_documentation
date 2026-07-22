@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warranty">
+    <title>Powerwall 3 Warranty</title>
+    
+    <shortdesc>Tesla Powerwall 3 comes with a warranty whose term depends on the connection of Powerwall 3 to the Internet.</shortdesc>
+    
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Powerwall 3</keyword>
+                <keyword>warranty</keyword>
+                <keyword>firmware</keyword>
+                <keyword>internet</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <conbody>
+        <p>To secure the full 10-year warranty for Powerwall 3, it must be reliably connected to the Internet to allow remote firmware upgrades from Tesla. If an Internet connection is not established or is interrupted for an extended period, and Tesla is unable to contact you, the warranty may be limited to 4 years.
+        </p>
+        <p>For more information, refer to the Tesla Powerwall Warranty for your region at <xref>tesla.com/support/energy/powerwall/documents</xref>.</p>
+    </conbody>
+    
+</concept>

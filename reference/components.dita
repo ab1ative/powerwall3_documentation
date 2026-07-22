@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="components">
+    <title>System Components</title>
+    <shortdesc>Tables of components and part numbers.</shortdesc>
+    
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Powerwall 3</keyword>
+                <keyword>Equipment</keyword>
+                <keyword>Part numbers</keyword>
+                <keyword>Backup Gateway</keyword>
+                <keyword>Backsup Switch</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <refbody>
+        <section>
+            <title>Powerwall</title>
+            <table>
+                <tgroup cols="3">
+                    <colspec colname="Component" colwidth="1*"/>
+                    <colspec colname="Description" colwidth="2*"/>
+                    <colspec colname="TeslaPartNumbers" colwidth="3*"/>
+                    <thead>
+                        <row>
+                            <entry>Component</entry>
+                            <entry>Descrtiption</entry>
+                            <entry>Tesla Part Numbers</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-81FBBAE3-B1D9-4E6D-98BF-0011F44DB9B8-online-en-US.png" format="png" scope="external" scalefit="yes" width="400"/></entry>
+                            <entry>
+                                <p><b>Powerwall 3</b> is an integrated solar and battery system that
+                                    converts energy from solar panels or Solar Roof to be used by
+                                    the home, and stores excess energy for future use. </p>
+                                <p>Powerwall is installed with one of the following Tesla devices.</p>
+                            </entry>
+                            <entry>1707000-xx-y</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section>
+            <title>Tesla Energy Equipment</title>
+            <table>
+                <tgroup cols="3">
+                    <colspec colname="Component" colwidth="1*"/>
+                    <colspec colname="Description" colwidth="2*"/>
+                    <colspec colname="TeslaPartNumbers" colwidth="3*"/>
+                    <thead>
+                        <row>
+                            <entry>Component</entry>
+                            <entry>Descrtiption</entry>
+                            <entry>Tesla Part Numbers</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-5B5C0914-7FDE-4632-801B-533C89A8D93C-online-en-US.png" format="png" scope="external" scalefit="yes" width="200"/></entry>
+                            <entry>
+                                <p>The <b>Backup Gateway 2</b> is installed in partial and whole home backup systems.</p>
+                                <p>Powerwall controls operation of the system, while Backup Gateway 2 monitors energy usage and manages the transition to and from backup operation.</p>
+                            </entry>
+                            <entry>1232100-xx-y</entry>
+                        </row>
+                        <row>
+                            <entry><image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-7D573BB1-8E7A-461C-A782-249AF406AB92-online-en-US.png" format="png" scope="external" scalefit="yes" width="200"/></entry>
+                            <entry>
+                                <p>The <b>Gateway 3</b> is installed in whole home backup
+                                    systems.</p>
+                                <p>Powerwall controls operation of the system, while Gateway 3 monitors energy usage and manages the transition to and from backup operation.</p>
+                            </entry>
+                            <entry>1841000-x1-y</entry>
+                        </row>
+                        <row>
+                            <entry><image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-02A06F7B-0EC2-4459-AFAF-9D3A34A1174E-online-en-US.png" format="png" scope="external" scalefit="yes" width="200"/></entry>
+                            <entry>
+                                <p>The <b>Tesla Backup Switch</b> is only installed in whole home
+                                    backup systems.</p>
+                                <p>Powerwall controls operation of the system, while Backup Switch monitors energy usage and manages the transition to and from backup operation.</p>
+                            </entry>
+                            <entry>1624171-xx-y</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

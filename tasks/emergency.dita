@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<task id="emergency">
+    <title>What to Do in Case of an Emergency</title>
+    <shortdesc>Steps to take in the event of a fire, flooding, unusual smell or smoke, or unusual noises from Powerwall 3.</shortdesc>
+    
+    <taskbody>
+        
+        <prereq>
+            <p>In the event of any threat to health or safety, always complete the following two steps before addressing the scenario-specific steps below:</p>
+            <ol>
+                <li>Immediately contact the fire department or other relevant emergency response team.</li>
+                <li>Notify all people who might be affected and ensure that they can evacuate the area.</li>
+            </ol>
+            <note type="warning">
+                <p>Only perform the suggested actions below if it is safe to do so.</p>
+            </note>
+        </prereq>
+        
+        <steps>
+            
+            <stepsection>Fire or General Emergency</stepsection>
+            
+            <step>
+                <cmd>On Powerwall 3 systems with additional interconnected solar, turn off the AC breaker for all solar inverters.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off all Powerwall(s), then turn off the AC breaker to Powerwall(s).</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the Powerwall 3 integrated DC isolator.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the AC breaker to the Gateway, if installed.</cmd>
+            </step>
+            <step>
+                <cmd>If using a fire extinguisher, use only water, CO2, or ABC type extinguishers.</cmd>
+                <info>
+                    <note type="warning">
+                        <p>Do not use type D (flammable metal) extinguishers.</p>
+                    </note>
+                </info>
+            </step>
+            
+            <stepsection>Flooding</stepsection>
+            
+            <step>
+                <cmd>Stay out of the water if any part of the battery, Gateway, or wiring is submerged.</cmd>
+            </step>
+            <step>
+                <cmd>On Powerwall 3 systems with additional interconnected solar, turn off the AC breaker for all solar inverters.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off all Powerwall(s), then turn off the AC breaker to Powerwall(s).</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the Powerwall 3 integrated DC isolator.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the AC breaker to the Gateway, if installed.</cmd>
+            </step>
+            <step>
+                <cmd>If possible, find and stop the source of the water and pump water away from the system.</cmd>
+            </step>
+            <step>
+                <cmd>If any part of the unit was submerged, note the depth and duration of the flooding.</cmd>
+            </step>
+            <step>
+                <cmd>Contact Tesla Support to determine if the unit can be safely turned back on.</cmd>
+            </step>
+            <step>
+                <cmd>If Tesla Support confirms it is safe to turn the unit back on, allow the area to dry completely before use.</cmd>
+            </step>
+            
+            <stepsection>Unusual Smell or Smoke</stepsection>
+            
+            <step>
+                <cmd>On Powerwall 3 systems with additional interconnected solar, turn off the AC breaker for all solar inverters.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off all Powerwall(s), then turn off the AC breaker to Powerwall(s).</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the Powerwall 3 integrated DC isolator.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the AC breaker to the Gateway, if installed.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure nothing is in contact with Powerwall.</cmd>
+            </step>
+            <step>
+                <cmd>Ventilate the room.</cmd>
+            </step>
+            
+            <stepsection>Unusual Noises</stepsection>
+            
+            <step>
+                <cmd>Turn off all Powerwall(s), then turn off the AC breaker to Powerwall(s).</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the Powerwall 3 integrated DC isolator.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the AC breaker to the Gateway, if installed.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that nothing is blocking the air intake or exhaust vents on the Powerwall or in the fan.</cmd>
+            </step>
+            
+        </steps>
+        
+        <postreq>
+            <p>In all cases, once the situation is stable, contact the Tesla Certified Installer who installed the system.</p>
+            <p>For first responder information, see <xref href="https://www.tesla.com/firstresponders" format="html" scope="external">tesla.com/firstresponders</xref>.</p>
+        </postreq>
+        
+    </taskbody>
+</task>

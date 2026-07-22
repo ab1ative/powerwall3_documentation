@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<task id="backup-troubleshooting">
+    <title>Backup Troubleshooting</title>
+    <shortdesc>Diagnose and resolve issues with Powerwall 3 backup operation.</shortdesc>
+    
+    <taskbody>
+        
+        <steps>
+            
+            <step>
+                <cmd>If a brownout or blackout is experienced during backup operation, reduce the loads and check that the load breakers have not opened.</cmd>
+                <info>
+                    <note type="note">
+                        <p>See <xref href="https://www.tesla.com/support/energy/powerwall/own/best-practices-during-power-outages" format="html" scope="external">tesla.com/support/energy/powerwall/own/best-practices-during-power-outages</xref> for best practices to extend the backup duration of your system during an outage.</p>
+                    </note>
+                </info>
+            </step>
+            
+            <step>
+                <cmd>If it is necessary to restart the Backup Gateway 2, Gateway 3, or Backup Switch, press the Reset button on the device when directed to do so by Tesla Support.</cmd>
+                <info>
+                    <p>The Reset button and manual override switch are located on the Backup Gateway 2, Gateway 3, or Backup Switch. The Backup Switch conduit hub must be removed to access the Reset button or manual override switch.</p>
+                    <table>
+                        <tgroup cols="2">
+                            <colspec colname="component" colwidth="1*"/>
+                            <colspec colname="name" colwidth="3*"/>
+                            <thead>
+                                <row>
+                                    <entry>Component</entry>
+                                    <entry>Name</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>1</entry>
+                                    <entry>Backup Gateway 2 / Gateway 3 / Backup Switch RESET button</entry>
+                                </row>
+                                <row>
+                                    <entry>2</entry>
+                                    <entry>Backup Gateway 2 / Backup Switch manual override switch</entry>
+                                </row>
+                                <row>
+                                    <entry>3</entry>
+                                    <entry>Backup Gateway 2 / Gateway 3 circuit breaker (in most whole-home backup systems)</entry>
+                                </row>
+                                <row>
+                                    <entry>4</entry>
+                                    <entry>Backup Switch conduit hub</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                    <image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-90DC7C1F-642E-4748-91AC-DF15B5D868AC-online-en-US.png" format="png" scope="external"/>
+                    <note type="note">
+                        <p>To remove the Backup Switch conduit hub, use a Phillips PH2 screwdriver to loosen the three captured fasteners holding it in place, then remove the hub. Once service actions are complete, replace the conduit hub and tighten the three fasteners.</p>
+                    </note>
+                </info>
+            </step>
+            
+            <step>
+                <cmd>If it is necessary to manually reconnect to the grid, operate the manual override switch on the Backup Gateway 2 or Backup Switch when directed to do so by Tesla Support.</cmd>
+                <info>
+                    <note type="warning">
+                        <p>Improper operation of the manual override switch may damage the unit and could void the product warranty. Do not remove the conduit hub or operate the manual override switch unless directed to do so by Tesla Support, or in the event that the grid is present but you are experiencing an outage. Contact Tesla Support if you are not sure whether you should operate the manual override switch.</p>
+                    </note>
+                    <note type="warning">
+                        <p>Do not make any modifications or adjustments to the Utility Meter. Only interact with the Backup Switch.</p>
+                    </note>
+                </info>
+                <substeps>
+                    <substep>
+                        <cmd>Push the Backup Switch manual override switch in to manually connect the system to the grid.</cmd>
+                        <info>
+                            <image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-A615CF4C-9077-4BC6-8361-FB26C2306EE0-online-en-US.png" format="png" scope="external"/>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            
+            <step>
+                <cmd>To check the Backup Switch LED status, remove the conduit hub as described above and locate the LED near the Reset button.</cmd>
+                <info>
+                    <table>
+                        <tgroup cols="2">
+                            <colspec colname="state" colwidth="1*"/>
+                            <colspec colname="indication" colwidth="2*"/>
+                            <thead>
+                                <row>
+                                    <entry>LED State</entry>
+                                    <entry>Indication</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>On (solid)</entry>
+                                    <entry>Power is on, communication established with Powerwall</entry>
+                                </row>
+                                <row>
+                                    <entry>On (flashing)</entry>
+                                    <entry>Power is on, no communication with Powerwall</entry>
+                                </row>
+                                <row>
+                                    <entry>Off</entry>
+                                    <entry>Power is off</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </info>
+            </step>
+            
+        </steps>
+        
+        <tasktroubleshooting>
+            <p>If the issue persists after completing these steps, contact Tesla Support at <xref href="https://tesla.com/support/energy/more/additional-support/contact-us" format="html" scope="external">tesla.com/support/energy/more/additional-support/contact-us</xref>.</p>
+        </tasktroubleshooting>
+        
+    </taskbody>
+</task>

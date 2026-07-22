@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" title="Powerwall 3 Owner's Manual" xtrc="map:1;3:41" xtrf="file:/C:/docs/reference/map.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title ">Powerwall 3 Owner's Manual</oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="powerwall3-safety-instructions"><resourceid appid="powerwall3-safety-instructions" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Important Safety Instructions</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">SAVE THESE IMPORTANT SAFETY INSTRUCTIONS</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warranty"><resourceid appid="warranty" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Powerwall 3 Warranty</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Tesla Powerwall 3 comes with a warranty whose term depends on the connection of Powerwall 3 to the Internet.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="care"><resourceid appid="care" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Care and Maintenance</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Care and cleaning instructions for Powerwall 3.</shortdesc></topicmeta></topicref>
+    
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="About Powerwall 3"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d132e47">About Powerwall 3</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="design"><resourceid appid="design" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">System Design</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Powerwall 3 is a fully integrated solar and battery system that stores energy from solar production. It converts energy from solar panels or Solar Roof, and its rechargeable battery pack provides energy storage for solar self-consumption, load shifting, or off-grid use. Powerwall 3 is installed with Backup Switch, Backup Gateway 2, or Gateway 3 to control the system's connection to the grid and monitor home energy consumption.     </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="components"><resourceid appid="components" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">System Components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Tables of components and part numbers.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="overview"><resourceid appid="overview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Powerwall 3 Overview</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Components and features of the Powerwall 3 unit.</shortdesc></topicmeta></topicref></topichead>
+    
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="about"><resourceid appid="about" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">About Powerwall 3</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This is a landing page for several subtopics about system operations and troubleshooting.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="monitoring"><resourceid appid="monitoring" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Monitoring Your System</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Monitor Powerwall 3 system operation from your mobile device using the Tesla app.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="backup-troubleshooting"><resourceid appid="backup-troubleshooting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Backup Troubleshooting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Diagnose and resolve issues with Powerwall 3 backup operation.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="turn_off"><resourceid appid="turn_off" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Turning the System Off</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">If Powerwall 3 is unresponsive, it may be necessary to turn off or power cycle the system. Note that power cycling the system must be done in the proper sequence as defined below.     </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="backup"><resourceid appid="backup" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Troubleshooting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">If the system is not working correctly, perform the following steps.     </shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_12" type="task"><topicmeta class="- map/topicmeta " data-topic-id="support"><resourceid appid="support" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Technical Support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Steps regarding how to contact the Support team.</shortdesc></topicmeta></topicref></topicref>
+    
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="about"><resourceid appid="about" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7_ssol1" class="- topic/navtitle ">About Powerwall 3</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This is a landing page for several subtopics about system operations and troubleshooting.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="monitoring"><resourceid appid="monitoring" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8_ssol1" class="- topic/navtitle ">Monitoring Your System</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Monitor Powerwall 3 system operation from your mobile device using the Tesla app.</shortdesc></topicmeta></topicref><topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Troubleshooting"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d132e172">Troubleshooting</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="turn_off"><resourceid appid="turn_off" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10_ssol1" class="- topic/navtitle ">Turning the System Off</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">If Powerwall 3 is unresponsive, it may be necessary to turn off or power cycle the system. Note that power cycling the system must be done in the proper sequence as defined below.     </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="backup-troubleshooting"><resourceid appid="backup-troubleshooting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9_ssol1" class="- topic/navtitle ">Backup Troubleshooting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Diagnose and resolve issues with Powerwall 3 backup operation.</shortdesc></topicmeta></topicref></topichead><topicref class="- map/topicref " href="#unique_12" type="task"><topicmeta class="- map/topicmeta " data-topic-id="support"><resourceid appid="support" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12_ssol1" class="- topic/navtitle ">Technical Support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Steps regarding how to contact the Support team.</shortdesc></topicmeta></topicref></topicref>
+    
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="emergency"><resourceid appid="emergency" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">What to Do in Case of an Emergency</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Steps to take in the event of a fire, flooding, unusual smell or smoke, or unusual noises from Powerwall 3.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="info"><resourceid appid="info" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">System Information</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The serial numbers for your system can be found on their product labels.     </shortdesc></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="powerwall3-safety-instructions" oid="powerwall3-safety-instructions" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Important Safety Instructions</ph></title>
+    <shortdesc class="- topic/shortdesc ">SAVE THESE IMPORTANT SAFETY INSTRUCTIONS</shortdesc>
+    
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <keyword class="- topic/keyword ">Powerwall 3</keyword>
+                <keyword class="- topic/keyword ">safety</keyword>
+                <keyword class="- topic/keyword ">warning</keyword>
+                <keyword class="- topic/keyword ">installation</keyword>
+                <keyword class="- topic/keyword ">high voltage</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <conbody class="- topic/body  concept/conbody ">
+        
+        <p class="- topic/p ">Powerwall 3 installation and service require knowledge of high voltage electricity and should only be performed by Tesla Certified Installers. Tesla assumes no liability for injury or property damage due to repairs attempted by unqualified individuals or a failure to properly follow these instructions. These warnings and cautions must be followed when using Powerwall 3.    
+        </p>
+        
+        <section class="- topic/section " id="unique_1_Connect_42_symbols" nd:nd-id="symbols">
+            <title class="- topic/title ">Symbols in This Document</title>
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">indicates a hazardous situation which, if not avoided, could result in injury or death.
+                </p>
+            </note>
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">indicates a hazardous situation which, if not avoided, could result in minor injury or damage to the equipment.
+                </p>
+            </note>
+            <note class="- topic/note " type="note">
+                <p class="- topic/p ">indicates an important step or tip that leads to best results, but is not safety or damage related.
+                </p>
+            </note>
+        </section>
+        
+        <section class="- topic/section " id="unique_1_Connect_42_general" nd:nd-id="general">
+            <title class="- topic/title ">General Information</title>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Read this entire document before installing or using Powerwall 3. Failure to do so or to follow any of the instructions or warnings in this document can result in electrical shock, serious injury, or death, or can damage Powerwall 3, potentially rendering it inoperable.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Electric shock hazard. The DC conductors of any connected PV system are normally ungrounded but will become intermittently grounded without indication when the inverter measures the PV array isolation. Disconnect all sources of supply before servicing.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">A battery can present a risk of electrical shock, fire, or explosion from vented gases. Observe proper precautions.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">This product can expose you to chemicals including cobalt and lithium compounds known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, visit www.P65Warnings.ca.gov. Only members of the Tesla Service team and Tesla-certified technicians should open the external casing.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Powerwall 3 installation must be carried out only by Tesla Certified Installers trained in dealing with high voltage electricity.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Powerwall 3 is heavy. Use of lift equipment is recommended.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Use Powerwall 3 only as directed.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not use Powerwall 3 if it is defective, appears cracked, broken, or otherwise damaged, or fails to operate.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Before beginning the wiring portion of the installation, ensure that Powerwall 3 is switched off, and open any associated circuit breakers and disconnect switches.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not attempt to open, disassemble, repair, tamper with, or modify Powerwall 3. Powerwall 3 and its components are not user serviceable. Batteries in Powerwall are not replaceable. Contact Tesla Support or the Certified Installer who installed the system for any repairs.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">When transporting Powerwall 3, handle with care. Do not impact, pull, drag, or step on Powerwall 3. Do not subject Powerwall 3 to any strong force. Leave Powerwall 3 in its shipping packaging until it is ready to be installed.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not insert foreign objects into any part of Powerwall 3.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not expose Powerwall 3 or its components to direct flame.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not install Powerwall 3 near heating equipment.</p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not immerse Powerwall 3 or its components in water or other fluids.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Powerwall is not designed nor warrantied for non-stationary applications.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Risk of electric shock. Do not remove cover, there are no user serviceable parts
+                    inside. Refer servicing to qualified personnel.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Both AC and DC voltage sources may be terminated inside this equipment. Each circuit must be individually disconnected before servicing.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">When the PV array is exposed to light, it supplies a DC voltage to this equipment.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Do not use cleaning solvents to clean Powerwall 3, or expose Powerwall 3 to flammable or harsh chemicals or vapors.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Do not use fluids, parts, or accessories other than those specified in this manual, including non-genuine Tesla parts or accessories not purchased directly from Tesla or a Tesla-certified party.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Do not place Powerwall 3 in a storage condition for more than one month, or permit the electrical feed to be severed for more than one month. Contact your installer for more information if needed.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Do not paint any part of Powerwall 3, including any internal or external components such as the exterior shell or casing.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">When installing Powerwall 3 in a garage or near vehicles, keep it out of the driving path. If possible, install Powerwall 3 on a side wall and/or above the height of vehicle bumpers.</p>
+            </note>
+            
+        </section>
+        
+        <section class="- topic/section " id="unique_1_Connect_42_environmental" nd:nd-id="environmental">
+            <title class="- topic/title ">Environmental Conditions</title>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Install Powerwall 3 in a location that prevents damage from flooding.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Operating or storing Powerwall 3 in temperatures outside its specified range might cause damage to Powerwall.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Ensure that no water sources are above or near Powerwall 3, including downspouts, sprinklers, or faucets.</p>
+            </note>
+            
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Ensure that snow does not accumulate around Powerwall 3.</p>
+            </note>         
+        </section>
+        
+        <section class="- topic/section " id="unique_1_Connect_42_fcc" nd:nd-id="fcc">
+            <title class="- topic/title ">FCC Compliance</title>
+            <p class="- topic/p ">This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.</p>
+        </section>
+        
+        <section class="- topic/section " id="unique_1_Connect_42_rf" nd:nd-id="rf">
+            <title class="- topic/title ">RF Exposure Information (MPE)</title>
+            <p class="- topic/p ">This device has been tested and meets applicable limits for Radio Frequency (RF) exposure. This equipment should be installed and operated with minimum distance 20 cm between the radiator and your body.
+            </p>
+        </section>
+        
+        <section class="- topic/section " id="unique_1_Connect_42_ised" nd:nd-id="ised">
+            <title class="- topic/title ">ISED Canada Compliance Statement</title>
+            <p class="- topic/p ">This device contains licence-exempt transmitter(s)/receiver(s) that comply with Innovation, Science and Economic Development Canada’s licence-exempt RSS(s). Operation is subject to the following two conditions: (1) this device may not cause interference, and (2) this device must accept any interference, including interference that may cause undesired operation of the device.
+            </p>
+            <p class="- topic/p ">The device for operation in the band 5150–5250 MHz is only for indoor use to reduce the potential for harmful interference to co-channel mobile satellite systems.
+            </p>
+        </section>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="warranty" oid="warranty" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Powerwall 3 Warranty</ph></title>
+    
+    <shortdesc class="- topic/shortdesc ">Tesla Powerwall 3 comes with a warranty whose term depends on the connection of Powerwall 3 to the Internet.</shortdesc>
+    
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <keyword class="- topic/keyword ">Powerwall 3</keyword>
+                <keyword class="- topic/keyword ">warranty</keyword>
+                <keyword class="- topic/keyword ">firmware</keyword>
+                <keyword class="- topic/keyword ">internet</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">To secure the full 10-year warranty for Powerwall 3, it must be reliably connected to the Internet to allow remote firmware upgrades from Tesla. If an Internet connection is not established or is interrupted for an extended period, and Tesla is unable to contact you, the warranty may be limited to 4 years.
+        </p>
+        <p class="- topic/p ">For more information, refer to the Tesla Powerwall Warranty for your region at <xref class="- topic/xref "><?ditaot usertext?>tesla.com/support/energy/powerwall/documents</xref>.</p>
+    </conbody>
+    
+</concept><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="care" oid="care" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Care and Maintenance</ph></title>
+    <shortdesc class="- topic/shortdesc ">Care and cleaning instructions for Powerwall 3.</shortdesc>
+    
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <keyword class="- topic/keyword ">Powerwall 3</keyword>
+                <keyword class="- topic/keyword ">maintenance</keyword>
+                <keyword class="- topic/keyword ">operating temperature</keyword>
+                <keyword class="- topic/keyword ">care</keyword>
+                <keyword class="- topic/keyword ">cleaning</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section ">
+            <title class="- topic/title ">Environmental Requirements</title>
+            <p class="- topic/p ">Powerwall 3 is capable of charging and discharging within the operating temperature range specified below. At the extremes of the temperature range, Powerwall 3 may limit charge or discharge power to improve battery lifespan.    
+            </p>
+            
+            <table class="- topic/table ">
+                <tgroup class="- topic/tgroup " cols="2">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1"/><colspec class="- topic/colspec " colname="col2" colnum="2"/><tbody class="- topic/tbody ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Operating Temperature</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">-20°C to 50°C (-4°F to 122°F)<sup class="+ topic/ph hi-d/sup ">1</sup></entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+            
+            <p class="- topic/p "><sup class="+ topic/ph hi-d/sup ">1</sup>Powerwall 3 is designed to operate in all climates and in direct sunlight, from temperatures of -20°C to 50°C (-4°F to 122°F). Performance may be de-rated at operating temperatures above 40°C (104°F).    
+            </p>
+        </section>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Care and Cleaning</title>
+            <p class="- topic/p ">Keep the immediate area around Powerwall 3 clear of foreign objects and debris to maintain optimal airflow.    
+            </p>
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Do not lean on, stack anything on top of, or hang anything from Powerwall 3 or from wires or conduit leading to Powerwall 3.
+                </p>
+            </note>
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">To clean Powerwall 3, use a soft, lint-free cloth. If needed, the cloth can be dampened with mild soap and water only.
+                </p>
+            </note>
+            <note class="- topic/note " type="caution">
+                <p class="- topic/p ">Do not use cleaning solvents to clean Powerwall 3 or expose Powerwall 3 to flammable or harsh chemicals or vapors.
+                </p>
+            </note>
+        </section>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Maintenance</title>
+            <p class="- topic/p ">Powerwall 3 does not require pre-scheduled preventative maintenance. The only maintenance required by an owner is to keep the Powerwall unit free and clear of debris, especially around the air intake and exhaust.
+            </p>
+        </section>
+    </refbody>
+</reference><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d132e47" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">About Powerwall 3</ph></title><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="design" oid="design" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">System Design</ph></title>
+    <shortdesc class="- topic/shortdesc ">Powerwall 3 is a fully integrated solar and battery system that stores energy from solar production. It converts energy from solar panels or Solar Roof, and its rechargeable battery pack provides energy storage for solar self-consumption, load shifting, or off-grid use. Powerwall 3 is installed with Backup Switch, Backup Gateway 2, or Gateway 3 to control the system's connection to the grid and monitor home energy consumption.
+    </shortdesc>
+    
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <keyword class="- topic/keyword ">Powerwall 3</keyword>
+                <keyword class="- topic/keyword ">Whole Home Backup</keyword>
+                <keyword class="- topic/keyword ">Partial Home Backup</keyword>
+                <keyword class="- topic/keyword ">Energy storage</keyword>
+                <keyword class="- topic/keyword ">Gateway 3</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section ">
+            <title class="- topic/title ">Whole Home Backup System</title>
+            <p class="- topic/p ">A Powerwall 3 system for whole home backup is designed to store energy from the grid
+                or solar, and power the entire home during a grid outage. </p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Whole Home Backup with Backup Switch</b></p>
+            <image class="- topic/image " format="png" dita-ot:image-width="1305" dita-ot:image-height="844" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-D9E74F5A-9475-49E9-8947-E16E2BC7729C-online-en-US.png" placement="inline" scope="external"/>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Whole Home Backup with Gateway 3 </b></p>
+            <image class="- topic/image " format="png" dita-ot:image-width="1960" dita-ot:image-height="779" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-B27EA2BB-8580-40B8-ACEE-35DE5CA7AFDB-online-en-US.png" placement="inline" scope="external"/>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Partial Home Backup System</title>
+            <p class="- topic/p ">A Powerwall 3 system for partial home backup is designed to store energy from the grid or solar, and can power some home loads during a grid outage. These loads are selected during the system design phase, and the installer configures the system at installation to exclude all other loads from backup.
+            </p>
+            <image class="- topic/image " format="png" dita-ot:image-width="1804" dita-ot:image-height="835" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-DB52A678-D30C-44CB-A289-B4DD5FC4A724-online-en-US.png" placement="inline" scope="external"/>
+            
+        </section>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="components" oid="components" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">System Components</ph></title>
+    <shortdesc class="- topic/shortdesc ">Tables of components and part numbers.</shortdesc>
+    
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <keyword class="- topic/keyword ">Powerwall 3</keyword>
+                <keyword class="- topic/keyword ">Equipment</keyword>
+                <keyword class="- topic/keyword ">Part numbers</keyword>
+                <keyword class="- topic/keyword ">Backup Gateway</keyword>
+                <keyword class="- topic/keyword ">Backsup Switch</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section ">
+            <title class="- topic/title ">Powerwall</title>
+            <table class="- topic/table ">
+                <tgroup class="- topic/tgroup " cols="3">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;24:65" xtrf="file:/C:/docs/reference/components.dita" style="width:16.6667%;"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="2*" xtrc="colspec:2;25:67" xtrf="file:/C:/docs/reference/components.dita" style="width:33.3333%;"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="3*" xtrc="colspec:3;26:72" xtrf="file:/C:/docs/reference/components.dita" style="width:50%;"/>
+                    <thead class="- topic/thead ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Component</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Descrtiption</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">Tesla Part Numbers</entry></row>
+                    </thead>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2"><image class="- topic/image " format="png" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-81FBBAE3-B1D9-4E6D-98BF-0011F44DB9B8-online-en-US.png" placement="inline" scalefit="yes" scope="external" width="400"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">
+                                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Powerwall 3</b> is an integrated solar and battery system that
+                                    converts energy from solar panels or Solar Roof to be used by
+                                    the home, and stores excess energy for future use. </p>
+                                <p class="- topic/p ">Powerwall is installed with one of the following Tesla devices.</p>
+                            </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">1707000-xx-y</entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Tesla Energy Equipment</title>
+            <table class="- topic/table ">
+                <tgroup class="- topic/tgroup " cols="3">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:4;53:65" xtrf="file:/C:/docs/reference/components.dita" style="width:16.6667%;"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="2*" xtrc="colspec:5;54:67" xtrf="file:/C:/docs/reference/components.dita" style="width:33.3333%;"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="3*" xtrc="colspec:6;55:72" xtrf="file:/C:/docs/reference/components.dita" style="width:50%;"/>
+                    <thead class="- topic/thead ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Component</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Descrtiption</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">Tesla Part Numbers</entry></row>
+                    </thead>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2"><image class="- topic/image " format="png" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-5B5C0914-7FDE-4632-801B-533C89A8D93C-online-en-US.png" placement="inline" scalefit="yes" scope="external" width="200"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">
+                                <p class="- topic/p ">The <b class="+ topic/ph hi-d/b ">Backup Gateway 2</b> is installed in partial and whole home backup systems.</p>
+                                <p class="- topic/p ">Powerwall controls operation of the system, while Backup Gateway 2 monitors energy usage and manages the transition to and from backup operation.</p>
+                            </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">1232100-xx-y</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3"><image class="- topic/image " format="png" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-7D573BB1-8E7A-461C-A782-249AF406AB92-online-en-US.png" placement="inline" scalefit="yes" scope="external" width="200"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">
+                                <p class="- topic/p ">The <b class="+ topic/ph hi-d/b ">Gateway 3</b> is installed in whole home backup
+                                    systems.</p>
+                                <p class="- topic/p ">Powerwall controls operation of the system, while Gateway 3 monitors energy usage and manages the transition to and from backup operation.</p>
+                            </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">1841000-x1-y</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4"><image class="- topic/image " format="png" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-02A06F7B-0EC2-4459-AFAF-9D3A34A1174E-online-en-US.png" placement="inline" scalefit="yes" scope="external" width="200"/></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">
+                                <p class="- topic/p ">The <b class="+ topic/ph hi-d/b ">Tesla Backup Switch</b> is only installed in whole home
+                                    backup systems.</p>
+                                <p class="- topic/p ">Powerwall controls operation of the system, while Backup Switch monitors energy usage and manages the transition to and from backup operation.</p>
+                            </entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">1624171-xx-y</entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="overview" oid="overview" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Powerwall 3 Overview</ph></title>
+    <shortdesc class="- topic/shortdesc ">Components and features of the Powerwall 3 unit.</shortdesc>
+    
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <keyword class="- topic/keyword ">Powerwall 3</keyword>
+                <keyword class="- topic/keyword ">components</keyword>
+                <keyword class="- topic/keyword ">intake</keyword>
+                <keyword class="- topic/keyword ">exhaust</keyword>
+                <keyword class="- topic/keyword ">switch</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <refbody class="- topic/body        reference/refbody ">
+        
+        <section class="- topic/section " id="unique_6_Connect_42_components" nd:nd-id="components">
+            <title class="- topic/title ">Components and Features</title>
+            
+            <table class="- topic/table ">
+                <tgroup class="- topic/tgroup " cols="2">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;27:65" xtrf="file:/C:/docs/reference/overview.dita" style="width:33.3333%;"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="2*" xtrc="colspec:2;28:60" xtrf="file:/C:/docs/reference/overview.dita" style="width:66.6667%;"/>
+                    <thead class="- topic/thead ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Component/Feature</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Name</entry></row>
+                    </thead>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">LED Indicator</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">On/Off Switch</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Air Intake</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Air Exhaust</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">5</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">System Shutdown Switch (optional)<sup class="+ topic/ph hi-d/sup ">1</sup></entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+            
+            <note class="- topic/note " type="note">
+                <p class="- topic/p ">The On/Off Switch and optional System Shutdown Switch both act as Rapid Shutdown (RSD) initiators. These switches are used by emergency responders to trigger rapid shutdown of the solar array in the event of an emergency.</p>
+            </note>
+            
+            <image class="- topic/image " format="png" dita-ot:image-width="6138" dita-ot:image-height="4762" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-05FC1953-624E-4104-8C40-09F464B1FCA9-online-en-US.png" placement="inline" scope="external"/>
+        </section>
+        
+    </refbody>
+</reference></topic><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="about" oid="about" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">About Powerwall 3</ph></title>
+    <shortdesc class="- topic/shortdesc ">This is a landing page for several subtopics about system operations and troubleshooting.</shortdesc>
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <keyword class="- topic/keyword ">Powerwall 3</keyword>
+                <keyword class="- topic/keyword ">warnings</keyword>
+                <keyword class="- topic/keyword ">Tesla app</keyword>
+                <keyword class="- topic/keyword ">Backup Gateway</keyword>
+                <keyword class="- topic/keyword ">Troubleshooting</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Powerwall systems provide control and monitoring capability through the Tesla app. During normal operation, Powerwall 3 communicates with Backup Gateway 2, Gateway 3, or Backup Switch, and the Powerwall 3 On/Off switch should remain in the ON position. When troubleshooting Powerwall 3 operation, it may be necessary to turn off Powerwall 3 or refer to its LED indicator to confirm that it is operating properly.
+        </p>
+        <section class="- topic/section " id="unique_7_Connect_42_general" nd:nd-id="general">
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not operate Powerwall 3 unless all covers are in place.
+                </p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not disconnect anything from or add anything to Powerwall 3.
+                </p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not try to communicate with Powerwall 3 using third party tools or diagnostics between Powerwall and the Backup Gateway 2, Gateway 3, or Backup Switch.
+                </p>
+            </note>
+
+        </section>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="monitoring" oid="monitoring" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Monitoring Your System</ph></title>
+    <shortdesc class="- topic/shortdesc ">Monitor Powerwall 3 system operation from your mobile device using the Tesla app.</shortdesc>
+    
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <keyword class="- topic/keyword ">Powerwall 3</keyword>
+                <keyword class="- topic/keyword ">power usage</keyword>
+                <keyword class="- topic/keyword ">Tesla app</keyword>
+                <keyword class="- topic/keyword ">energy consumption</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <taskbody class="- topic/body task/taskbody ">
+        
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">The Tesla app allows you to monitor the following from your mobile device:</p>
+            <ul class="- topic/ul "><li class="- topic/li ">Real-time power usage</li><li class="- topic/li ">Energy consumption history</li><li class="- topic/li ">Relative amounts of energy used from solar, grid, and Powerwall storage</li></ul>
+        </context>
+        
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Download the latest version of the Tesla app from <xref class="- topic/xref " format="html" href="https://tesla.com/support/tesla-app" scope="external"><?ditaot usertext?>tesla.com/support/tesla-app</xref>.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open the Tesla app on your mobile device and sign in to your Tesla account.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select your Powerwall system from the home screen to view system operation.</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult ">The app displays real-time power usage, energy consumption history, and relative amounts of energy used from solar, grid, and Powerwall storage.</stepresult>
+            </step></steps>
+        
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="backup-troubleshooting" oid="backup-troubleshooting" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Backup Troubleshooting</ph></title>
+    <shortdesc class="- topic/shortdesc ">Diagnose and resolve issues with Powerwall 3 backup operation.</shortdesc>
+    
+    <taskbody class="- topic/body task/taskbody ">
+        
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If a brownout or blackout is experienced during backup operation, reduce the loads and check that the load breakers have not opened.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <note class="- topic/note " type="note">
+                        <p class="- topic/p ">See <xref class="- topic/xref " format="html" href="https://www.tesla.com/support/energy/powerwall/own/best-practices-during-power-outages" scope="external"><?ditaot usertext?>tesla.com/support/energy/powerwall/own/best-practices-during-power-outages</xref> for best practices to extend the backup duration of your system during an outage.</p>
+                    </note>
+                </info>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If it is necessary to restart the Backup Gateway 2, Gateway 3, or Backup Switch, press the Reset button on the device when directed to do so by Tesla Support.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">The Reset button and manual override switch are located on the Backup Gateway 2, Gateway 3, or Backup Switch. The Backup Switch conduit hub must be removed to access the Reset button or manual override switch.</p>
+                    <table class="- topic/table ">
+                        <tgroup class="- topic/tgroup " cols="2">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;27:73" xtrf="file:/C:/docs/reference/backup.dita" style="width:25%;"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="3*" xtrc="colspec:2;28:68" xtrf="file:/C:/docs/reference/backup.dita" style="width:75%;"/>
+                            <thead class="- topic/thead ">
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Component</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Name</entry></row>
+                            </thead>
+                            <tbody class="- topic/tbody ">
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Backup Gateway 2 / Gateway 3 / Backup Switch RESET button</entry></row>
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Backup Gateway 2 / Backup Switch manual override switch</entry></row>
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Backup Gateway 2 / Gateway 3 circuit breaker (in most whole-home backup systems)</entry></row>
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Backup Switch conduit hub</entry></row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                    <image class="- topic/image " format="png" dita-ot:image-width="13371" dita-ot:image-height="4959" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-90DC7C1F-642E-4748-91AC-DF15B5D868AC-online-en-US.png" placement="inline" scope="external"/>
+                    <note class="- topic/note " type="note">
+                        <p class="- topic/p ">To remove the Backup Switch conduit hub, use a Phillips PH2 screwdriver to loosen the three captured fasteners holding it in place, then remove the hub. Once service actions are complete, replace the conduit hub and tighten the three fasteners.</p>
+                    </note>
+                </info>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If it is necessary to manually reconnect to the grid, operate the manual override switch on the Backup Gateway 2 or Backup Switch when directed to do so by Tesla Support.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <note class="- topic/note " type="warning">
+                        <p class="- topic/p ">Improper operation of the manual override switch may damage the unit and could void the product warranty. Do not remove the conduit hub or operate the manual override switch unless directed to do so by Tesla Support, or in the event that the grid is present but you are experiencing an outage. Contact Tesla Support if you are not sure whether you should operate the manual override switch.</p>
+                    </note>
+                    <note class="- topic/note " type="warning">
+                        <p class="- topic/p ">Do not make any modifications or adjustments to the Utility Meter. Only interact with the Backup Switch.</p>
+                    </note>
+                </info>
+                <substeps class="- topic/ol task/substeps "><substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Push the Backup Switch manual override switch in to manually connect the system to the grid.</cmd>
+                        <info class="- topic/itemgroup task/info ">
+                            <image class="- topic/image " format="png" dita-ot:image-width="7047" dita-ot:image-height="3949" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-A615CF4C-9077-4BC6-8361-FB26C2306EE0-online-en-US.png" placement="inline" scope="external"/>
+                        </info>
+                    </substep></substeps>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To check the Backup Switch LED status, remove the conduit hub as described above and locate the LED near the Reset button.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <table class="- topic/table ">
+                        <tgroup class="- topic/tgroup " cols="2">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:3;87:69" xtrf="file:/C:/docs/reference/backup.dita" style="width:33.3333%;"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="2*" xtrc="colspec:4;88:74" xtrf="file:/C:/docs/reference/backup.dita" style="width:66.6667%;"/>
+                            <thead class="- topic/thead ">
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">LED State</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Indication</entry></row>
+                            </thead>
+                            <tbody class="- topic/tbody ">
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">On (solid)</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Power is on, communication established with Powerwall</entry></row>
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">On (flashing)</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Power is on, no communication with Powerwall</entry></row>
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Off</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Power is off</entry></row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </info>
+            </step></steps>
+        
+        <tasktroubleshooting class="- topic/section task/tasktroubleshooting ">
+            <p class="- topic/p ">If the issue persists after completing these steps, contact Tesla Support at <xref class="- topic/xref " format="html" href="https://tesla.com/support/energy/more/additional-support/contact-us" scope="external"><?ditaot usertext?>tesla.com/support/energy/more/additional-support/contact-us</xref>.</p>
+        </tasktroubleshooting>
+        
+    </taskbody>
+<task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="turn_off" oid="turn_off" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Turning the System Off</ph></title>
+    <shortdesc class="- topic/shortdesc ">If Powerwall 3 is unresponsive, it may be necessary to turn off or power cycle the system. Note that power cycling the system must be done in the proper sequence as defined below.
+    </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <note class="- topic/note " type="warning">On Powerwall 3 systems with additional interconnected solar, always turn off the solar inverter(s) or disconnect the solar source(s) before turning off Powerwall 3.
+            </note>
+        </context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off Powerwall 3 by setting its On/Off switch to the OFF position.
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the AC breaker to Powerwall 3.
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the AC breaker to the Gateway, if installed (for whole-home backup systems, this may be a breaker inside the Gateway).
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Wait for at least one hour.
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn the AC breakers back on.
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn on Powerwall 3.
+                </cmd>
+            </step></steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="backup" oid="backup" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Troubleshooting</ph></title>
+    <shortdesc class="- topic/shortdesc ">If the system is not working correctly, perform the following steps.
+    </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " type="caution">Powerwall 3 , Backup Gateway 2, Gateway 3, and Backup Switch are not user-serviceable and must be repaired by Tesla or a Certified Installer.
+        </note>
+        <note class="- topic/note " type="warning">Do not open the deadfront cover inside the Gateway. Exposed wiring can present a risk of electrical shock.
+        </note>
+        <p class="- topic/p ">Check the LED indicator on Powerwall 3 to determine its status:
+        </p>
+        
+        <table class="- topic/table ">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;17:60" xtrf="file:/C:/docs/reference/troubleshooting.dita" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="2*" xtrc="colspec:2;18:62" xtrf="file:/C:/docs/reference/troubleshooting.dita" style="width:66.6667%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">LED State</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Indication</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Solid white</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Normal operation
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Flashing white</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Powerwall 3 is idle. Will enter sleep state if no actions in progress
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Off</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Powerwall 3 is off or in sleep state
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Flashing red</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Inverter fault
+                        </entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+        <p class="- topic/p ">If it is not possible to communicate with the system through the Tesla app, ensure that the home Internet connection is working. If the home Internet connection is working and communication through the Tesla app is still not possible, see <xref class="- topic/xref "><?ditaot usertext?>tesla.com/support/energy/powerwall/mobile-app/connecting-powerwall-wi-fi</xref> for instructions to update your Wi-Fi connection.    
+        </p>
+        <p class="- topic/p "><xref class="- topic/xref " href="#unique_10" type="task"><?ditaot usertext?>Turning the System Off<?ditaot genshortdesc?><desc class="- topic/desc ">If Powerwall 3 is unresponsive, it may be necessary to turn off or power cycle the system. Note that power cycling the system must be done in the proper sequence as defined below.     </desc></xref>If Powerwall 3 is unresponsive, it may be necessary to turn off or power cycle the system. Note that power cycling the system must be done in the proper sequence as defined below.</p>
+        <p class="- topic/p "><xref class="- topic/xref " href="#unique_9" type="task"><?ditaot usertext?>Backup Troubleshooting<?ditaot genshortdesc?><desc class="- topic/desc ">Diagnose and resolve issues with Powerwall 3 backup operation.</desc></xref></p>
+    </conbody>
+</concept></task><task class="- topic/topic task/task " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="support" oid="support" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Technical Support</ph></title>
+    <shortdesc class="- topic/shortdesc ">Steps regarding how to contact the Support team.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">If you need further assistance, contact the Tesla Support team via the Contact Us page:
+            </p>
+            <p class="- topic/p "><xref class="- topic/xref "><?ditaot usertext?>tesla.com/support/energy/more/additional-support/contact-us</xref></p>
+            <p class="- topic/p ">Have the following information available when contacting Tesla:    
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Owner name
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Best way for Tesla to contact you (name, phone number, email)
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Powerwall 3 and Backup Gateway 2 / Gateway 3 / Backup Switch serial numbers (see <xref class="- topic/xref " href="#unique_13" type="concept"><?ditaot usertext?>System Information<?ditaot genshortdesc?><desc class="- topic/desc ">The serial numbers for your system can be found on their product labels.     </desc></xref>)
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Brief description of the issue
+                </cmd>
+            </step></steps>
+    </taskbody>
+</task></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_7_ssol1" topicrefclass="- map/topicref " nd:nd-id="about" oid="about" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">About Powerwall 3</ph></title>
+    <shortdesc class="- topic/shortdesc ">This is a landing page for several subtopics about system operations and troubleshooting.</shortdesc>
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <keyword class="- topic/keyword ">Powerwall 3</keyword>
+                <keyword class="- topic/keyword ">warnings</keyword>
+                <keyword class="- topic/keyword ">Tesla app</keyword>
+                <keyword class="- topic/keyword ">Backup Gateway</keyword>
+                <keyword class="- topic/keyword ">Troubleshooting</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Powerwall systems provide control and monitoring capability through the Tesla app. During normal operation, Powerwall 3 communicates with Backup Gateway 2, Gateway 3, or Backup Switch, and the Powerwall 3 On/Off switch should remain in the ON position. When troubleshooting Powerwall 3 operation, it may be necessary to turn off Powerwall 3 or refer to its LED indicator to confirm that it is operating properly.
+        </p>
+        <section class="- topic/section " id="unique_7_ssol1_Connect_42_general">
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not operate Powerwall 3 unless all covers are in place.
+                </p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not disconnect anything from or add anything to Powerwall 3.
+                </p>
+            </note>
+            
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Do not try to communicate with Powerwall 3 using third party tools or diagnostics between Powerwall and the Backup Gateway 2, Gateway 3, or Backup Switch.
+                </p>
+            </note>
+
+        </section>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_8_ssol1" topicrefclass="- map/topicref " nd:nd-id="monitoring" oid="monitoring" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Monitoring Your System</ph></title>
+    <shortdesc class="- topic/shortdesc ">Monitor Powerwall 3 system operation from your mobile device using the Tesla app.</shortdesc>
+    
+    <prolog class="- topic/prolog ">
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <keyword class="- topic/keyword ">Powerwall 3</keyword>
+                <keyword class="- topic/keyword ">power usage</keyword>
+                <keyword class="- topic/keyword ">Tesla app</keyword>
+                <keyword class="- topic/keyword ">energy consumption</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <taskbody class="- topic/body task/taskbody ">
+        
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">The Tesla app allows you to monitor the following from your mobile device:</p>
+            <ul class="- topic/ul "><li class="- topic/li ">Real-time power usage</li><li class="- topic/li ">Energy consumption history</li><li class="- topic/li ">Relative amounts of energy used from solar, grid, and Powerwall storage</li></ul>
+        </context>
+        
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Download the latest version of the Tesla app from <xref class="- topic/xref " format="html" href="https://tesla.com/support/tesla-app" scope="external"><?ditaot usertext?>tesla.com/support/tesla-app</xref>.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open the Tesla app on your mobile device and sign in to your Tesla account.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select your Powerwall system from the home screen to view system operation.</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult ">The app displays real-time power usage, energy consumption history, and relative amounts of energy used from solar, grid, and Powerwall storage.</stepresult>
+            </step></steps>
+        
+    </taskbody>
+</task><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d132e172" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Troubleshooting</ph></title><task class="- topic/topic task/task " id="unique_10_ssol1" topicrefclass="- map/topicref " nd:nd-id="turn_off" oid="turn_off" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Turning the System Off</ph></title>
+    <shortdesc class="- topic/shortdesc ">If Powerwall 3 is unresponsive, it may be necessary to turn off or power cycle the system. Note that power cycling the system must be done in the proper sequence as defined below.
+    </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <note class="- topic/note " type="warning">On Powerwall 3 systems with additional interconnected solar, always turn off the solar inverter(s) or disconnect the solar source(s) before turning off Powerwall 3.
+            </note>
+        </context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off Powerwall 3 by setting its On/Off switch to the OFF position.
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the AC breaker to Powerwall 3.
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the AC breaker to the Gateway, if installed (for whole-home backup systems, this may be a breaker inside the Gateway).
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Wait for at least one hour.
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn the AC breakers back on.
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn on Powerwall 3.
+                </cmd>
+            </step></steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_9_ssol1" topicrefclass="- map/topicref " nd:nd-id="backup-troubleshooting" oid="backup-troubleshooting" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Backup Troubleshooting</ph></title>
+    <shortdesc class="- topic/shortdesc ">Diagnose and resolve issues with Powerwall 3 backup operation.</shortdesc>
+    
+    <taskbody class="- topic/body task/taskbody ">
+        
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If a brownout or blackout is experienced during backup operation, reduce the loads and check that the load breakers have not opened.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <note class="- topic/note " type="note">
+                        <p class="- topic/p ">See <xref class="- topic/xref " format="html" href="https://www.tesla.com/support/energy/powerwall/own/best-practices-during-power-outages" scope="external"><?ditaot usertext?>tesla.com/support/energy/powerwall/own/best-practices-during-power-outages</xref> for best practices to extend the backup duration of your system during an outage.</p>
+                    </note>
+                </info>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If it is necessary to restart the Backup Gateway 2, Gateway 3, or Backup Switch, press the Reset button on the device when directed to do so by Tesla Support.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">The Reset button and manual override switch are located on the Backup Gateway 2, Gateway 3, or Backup Switch. The Backup Switch conduit hub must be removed to access the Reset button or manual override switch.</p>
+                    <table class="- topic/table ">
+                        <tgroup class="- topic/tgroup " cols="2">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;27:73" xtrf="file:/C:/docs/reference/backup.dita" style="width:25%;"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="3*" xtrc="colspec:2;28:68" xtrf="file:/C:/docs/reference/backup.dita" style="width:75%;"/>
+                            <thead class="- topic/thead ">
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Component</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Name</entry></row>
+                            </thead>
+                            <tbody class="- topic/tbody ">
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Backup Gateway 2 / Gateway 3 / Backup Switch RESET button</entry></row>
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Backup Gateway 2 / Backup Switch manual override switch</entry></row>
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">3</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Backup Gateway 2 / Gateway 3 circuit breaker (in most whole-home backup systems)</entry></row>
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">4</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Backup Switch conduit hub</entry></row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                    <image class="- topic/image " format="png" dita-ot:image-width="13371" dita-ot:image-height="4959" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-90DC7C1F-642E-4748-91AC-DF15B5D868AC-online-en-US.png" placement="inline" scope="external"/>
+                    <note class="- topic/note " type="note">
+                        <p class="- topic/p ">To remove the Backup Switch conduit hub, use a Phillips PH2 screwdriver to loosen the three captured fasteners holding it in place, then remove the hub. Once service actions are complete, replace the conduit hub and tighten the three fasteners.</p>
+                    </note>
+                </info>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If it is necessary to manually reconnect to the grid, operate the manual override switch on the Backup Gateway 2 or Backup Switch when directed to do so by Tesla Support.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <note class="- topic/note " type="warning">
+                        <p class="- topic/p ">Improper operation of the manual override switch may damage the unit and could void the product warranty. Do not remove the conduit hub or operate the manual override switch unless directed to do so by Tesla Support, or in the event that the grid is present but you are experiencing an outage. Contact Tesla Support if you are not sure whether you should operate the manual override switch.</p>
+                    </note>
+                    <note class="- topic/note " type="warning">
+                        <p class="- topic/p ">Do not make any modifications or adjustments to the Utility Meter. Only interact with the Backup Switch.</p>
+                    </note>
+                </info>
+                <substeps class="- topic/ol task/substeps "><substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Push the Backup Switch manual override switch in to manually connect the system to the grid.</cmd>
+                        <info class="- topic/itemgroup task/info ">
+                            <image class="- topic/image " format="png" dita-ot:image-width="7047" dita-ot:image-height="3949" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-A615CF4C-9077-4BC6-8361-FB26C2306EE0-online-en-US.png" placement="inline" scope="external"/>
+                        </info>
+                    </substep></substeps>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To check the Backup Switch LED status, remove the conduit hub as described above and locate the LED near the Reset button.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <table class="- topic/table ">
+                        <tgroup class="- topic/tgroup " cols="2">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:3;87:69" xtrf="file:/C:/docs/reference/backup.dita" style="width:33.3333%;"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="2*" xtrc="colspec:4;88:74" xtrf="file:/C:/docs/reference/backup.dita" style="width:66.6667%;"/>
+                            <thead class="- topic/thead ">
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">LED State</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Indication</entry></row>
+                            </thead>
+                            <tbody class="- topic/tbody ">
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">On (solid)</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Power is on, communication established with Powerwall</entry></row>
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">On (flashing)</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Power is on, no communication with Powerwall</entry></row>
+                                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Off</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Power is off</entry></row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </info>
+            </step></steps>
+        
+        <tasktroubleshooting class="- topic/section task/tasktroubleshooting ">
+            <p class="- topic/p ">If the issue persists after completing these steps, contact Tesla Support at <xref class="- topic/xref " format="html" href="https://tesla.com/support/energy/more/additional-support/contact-us" scope="external"><?ditaot usertext?>tesla.com/support/energy/more/additional-support/contact-us</xref>.</p>
+        </tasktroubleshooting>
+        
+    </taskbody>
+</task></topic><task class="- topic/topic task/task " id="unique_12_ssol1" topicrefclass="- map/topicref " nd:nd-id="support" oid="support" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Technical Support</ph></title>
+    <shortdesc class="- topic/shortdesc ">Steps regarding how to contact the Support team.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">If you need further assistance, contact the Tesla Support team via the Contact Us page:
+            </p>
+            <p class="- topic/p "><xref class="- topic/xref "><?ditaot usertext?>tesla.com/support/energy/more/additional-support/contact-us</xref></p>
+            <p class="- topic/p ">Have the following information available when contacting Tesla:    
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Owner name
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Best way for Tesla to contact you (name, phone number, email)
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Powerwall 3 and Backup Gateway 2 / Gateway 3 / Backup Switch serial numbers (see <xref class="- topic/xref " href="#unique_13" type="concept"><?ditaot usertext?>System Information<?ditaot genshortdesc?><desc class="- topic/desc ">The serial numbers for your system can be found on their product labels.     </desc></xref>)
+                </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Brief description of the issue
+                </cmd>
+            </step></steps>
+    </taskbody>
+</task></concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="emergency" oid="emergency" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What to Do in Case of an Emergency</ph></title>
+    <shortdesc class="- topic/shortdesc ">Steps to take in the event of a fire, flooding, unusual smell or smoke, or unusual noises from Powerwall 3.</shortdesc>
+    
+    <taskbody class="- topic/body task/taskbody ">
+        
+        <prereq class="- topic/section task/prereq ">
+            <p class="- topic/p ">In the event of any threat to health or safety, always complete the following two steps before addressing the scenario-specific steps below:</p>
+            <ol class="- topic/ol "><li class="- topic/li ">Immediately contact the fire department or other relevant emergency response team.</li><li class="- topic/li ">Notify all people who might be affected and ensure that they can evacuate the area.</li></ol>
+            <note class="- topic/note " type="warning">
+                <p class="- topic/p ">Only perform the suggested actions below if it is safe to do so.</p>
+            </note>
+        </prereq>
+        
+        <steps class="- topic/ol task/steps "><stepsection class="- topic/li task/stepsection ">Fire or General Emergency</stepsection><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">On Powerwall 3 systems with additional interconnected solar, turn off the AC breaker for all solar inverters.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off all Powerwall(s), then turn off the AC breaker to Powerwall(s).</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the Powerwall 3 integrated DC isolator.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the AC breaker to the Gateway, if installed.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If using a fire extinguisher, use only water, CO2, or ABC type extinguishers.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <note class="- topic/note " type="warning">
+                        <p class="- topic/p ">Do not use type D (flammable metal) extinguishers.</p>
+                    </note>
+                </info>
+            </step><stepsection class="- topic/li task/stepsection ">Flooding</stepsection><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Stay out of the water if any part of the battery, Gateway, or wiring is submerged.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">On Powerwall 3 systems with additional interconnected solar, turn off the AC breaker for all solar inverters.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off all Powerwall(s), then turn off the AC breaker to Powerwall(s).</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the Powerwall 3 integrated DC isolator.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the AC breaker to the Gateway, if installed.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If possible, find and stop the source of the water and pump water away from the system.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If any part of the unit was submerged, note the depth and duration of the flooding.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Contact Tesla Support to determine if the unit can be safely turned back on.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If Tesla Support confirms it is safe to turn the unit back on, allow the area to dry completely before use.</cmd>
+            </step><stepsection class="- topic/li task/stepsection ">Unusual Smell or Smoke</stepsection><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">On Powerwall 3 systems with additional interconnected solar, turn off the AC breaker for all solar inverters.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off all Powerwall(s), then turn off the AC breaker to Powerwall(s).</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the Powerwall 3 integrated DC isolator.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the AC breaker to the Gateway, if installed.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Ensure nothing is in contact with Powerwall.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Ventilate the room.</cmd>
+            </step><stepsection class="- topic/li task/stepsection ">Unusual Noises</stepsection><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off all Powerwall(s), then turn off the AC breaker to Powerwall(s).</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the Powerwall 3 integrated DC isolator.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the AC breaker to the Gateway, if installed.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Ensure that nothing is blocking the air intake or exhaust vents on the Powerwall or in the fan.</cmd>
+            </step></steps>
+        
+        <postreq class="- topic/section task/postreq ">
+            <p class="- topic/p ">In all cases, once the situation is stable, contact the Tesla Certified Installer who installed the system.</p>
+            <p class="- topic/p ">For first responder information, see <xref class="- topic/xref " format="html" href="https://www.tesla.com/firstresponders" scope="external"><?ditaot usertext?>tesla.com/firstresponders</xref>.</p>
+        </postreq>
+        
+    </taskbody>
+</task><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="info" oid="info" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">System Information</ph></title>
+    <shortdesc class="- topic/shortdesc ">The serial numbers for your system can be found on their product labels.
+    </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section ">
+            <title class="- topic/title ">Powerwall 3 Serial Number</title>
+            <p class="- topic/p ">Find the serial number on a sticker on the left side of Powerwall 3. 
+            </p>
+            <image class="- topic/image " format="png" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-66510524-C381-4895-BB65-C2E955FEF7BD-online-en-US.png" placement="inline" scalefit="yes" scope="external" width="200"/>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Backup Gateway 2 Serial Number</title>
+            <p class="- topic/p ">Find the serial number on a sticker on the panel cover of Backup Gateway 2.
+            </p>
+            <image class="- topic/image " format="png" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-2666EA7A-837F-40EE-8A69-5EDA60D4BB1B-online-en-US.png" placement="inline" scalefit="yes" scope="external" width="200"/>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Gateway 3 Serial Number</title>
+            <p class="- topic/p ">Find the serial number on a sticker on the panel cover of Gateway 3.
+            </p>
+            <image class="- topic/image " format="png" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-0F74435F-3D6A-4E22-AAF3-A38B1F3CE867-online-en-US.png" placement="inline" scalefit="yes" scope="external" width="200"/>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Backup Switch Serial Number</title>
+            <p class="- topic/p ">Find the serial number printed on the right side of Backup Switch.
+            </p>
+            <image class="- topic/image " format="png" href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-66290936-3FC8-4E8F-B500-EA312622B84B-online-en-US.png" placement="inline" scalefit="yes" scope="external" width="200"/>
+        </section>
+    </conbody>
+</concept></map>

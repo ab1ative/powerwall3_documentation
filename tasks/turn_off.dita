@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="turn_off">
+    <title>Turning the System Off</title>
+    <shortdesc>If Powerwall 3 is unresponsive, it may be necessary to turn off or power cycle the system. Note that power cycling the system must be done in the proper sequence as defined below.
+    </shortdesc>
+    <taskbody>
+        <context>
+            <note type="warning">On Powerwall 3 systems with additional interconnected solar, always turn off the solar inverter(s) or disconnect the solar source(s) before turning off Powerwall 3.
+            </note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn off Powerwall 3 by setting its On/Off switch to the OFF position.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Turn off the AC breaker to Powerwall 3.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Turn off the AC breaker to the Gateway, if installed (for whole-home backup systems, this may be a breaker inside the Gateway).
+                </cmd>
+            </step>
+            <step>
+                <cmd>Wait for at least one hour.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Turn the AC breakers back on.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Turn on Powerwall 3.
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

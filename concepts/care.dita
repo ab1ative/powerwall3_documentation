@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="care">
+    <title>Care and Maintenance</title>
+    <shortdesc>Care and cleaning instructions for Powerwall 3.</shortdesc>
+    
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Powerwall 3</keyword>
+                <keyword>maintenance</keyword>
+                <keyword>operating temperature</keyword>
+                <keyword>care</keyword>
+                <keyword>cleaning</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <refbody>
+        <section>
+            <title>Environmental Requirements</title>
+            <p>Powerwall 3 is capable of charging and discharging within the operating temperature range specified below. At the extremes of the temperature range, Powerwall 3 may limit charge or discharge power to improve battery lifespan.    
+            </p>
+            
+            <table>
+                <tgroup cols="2">
+                    <tbody>
+                        <row>
+                            <entry>Operating Temperature</entry>
+                            <entry>-20°C to 50°C (-4°F to 122°F)<sup>1</sup></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            
+            <p><sup>1</sup>Powerwall 3 is designed to operate in all climates and in direct sunlight, from temperatures of -20°C to 50°C (-4°F to 122°F). Performance may be de-rated at operating temperatures above 40°C (104°F).    
+            </p>
+        </section>
+        
+        <section>
+            <title>Care and Cleaning</title>
+            <p>Keep the immediate area around Powerwall 3 clear of foreign objects and debris to maintain optimal airflow.    
+            </p>
+            <note type="caution">
+                <p>Do not lean on, stack anything on top of, or hang anything from Powerwall 3 or from wires or conduit leading to Powerwall 3.
+                </p>
+            </note>
+            <note type="caution">
+                <p>To clean Powerwall 3, use a soft, lint-free cloth. If needed, the cloth can be dampened with mild soap and water only.
+                </p>
+            </note>
+            <note type="caution">
+                <p>Do not use cleaning solvents to clean Powerwall 3 or expose Powerwall 3 to flammable or harsh chemicals or vapors.
+                </p>
+            </note>
+        </section>
+        
+        <section>
+            <title>Maintenance</title>
+            <p>Powerwall 3 does not require pre-scheduled preventative maintenance. The only maintenance required by an owner is to keep the Powerwall unit free and clear of debris, especially around the air intake and exhaust.
+            </p>
+        </section>
+    </refbody>
+</reference>

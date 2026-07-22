@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="info">
+    <title>System Information</title>
+    <shortdesc>The serial numbers for your system can be found on their product labels.
+    </shortdesc>
+    <conbody>
+        <section>
+            <title>Powerwall 3 Serial Number</title>
+            <p>Find the serial number on a sticker on the left side of Powerwall 3. 
+            </p>
+            <image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-66510524-C381-4895-BB65-C2E955FEF7BD-online-en-US.png" format="png" scope="external" scalefit="yes" width="200"/>
+        </section>
+        <section>
+            <title>Backup Gateway 2 Serial Number</title>
+            <p>Find the serial number on a sticker on the panel cover of Backup Gateway 2.
+            </p>
+            <image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-2666EA7A-837F-40EE-8A69-5EDA60D4BB1B-online-en-US.png" format="png" scope="external" scalefit="yes" width="200"/>
+        </section>
+        <section>
+            <title>Gateway 3 Serial Number</title>
+            <p>Find the serial number on a sticker on the panel cover of Gateway 3.
+            </p>
+            <image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-0F74435F-3D6A-4E22-AAF3-A38B1F3CE867-online-en-US.png" format="png" scope="external" scalefit="yes" width="200"/>
+        </section>
+        <section>
+            <title>Backup Switch Serial Number</title>
+            <p>Find the serial number printed on the right side of Backup Switch.
+            </p>
+            <image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-66290936-3FC8-4E8F-B500-EA312622B84B-online-en-US.png" format="png" scope="external" scalefit="yes" width="200"/>
+        </section>
+    </conbody>
+</concept>

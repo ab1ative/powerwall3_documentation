@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qtesla_repo.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>scenario.associations</String>
+                        <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>emergency.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/dita/dita.framework/DITA/DITA HTML5</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>map.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/dita/ditamap.framework/DITA Map/DITA Map PDF - based on HTML5 &amp; CSS</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>reference.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/dita/ditamap.framework/DITA Map/DITA Map PDF - based on HTML5 &amp; CSS</String>
+                                        <String>6/dita/ditamap.framework/DITA Map/DITA Map HTML5</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                        </scenarioAssociation-array>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="tesla_repo.xpr">
+        <folder name="concepts">
+            <file name="about.dita"/>
+            <file name="care.dita"/>
+            <file name="design.dita"/>
+            <file name="info.dita"/>
+            <file name="operation.dita"/>
+            <file name="safety.dita"/>
+            <file name="troubleshooting.dita"/>
+            <file name="warranty.dita"/>
+        </folder>
+        <folder name="reference">
+            <file name="components.dita"/>
+            <file name="overview.dita"/>
+        </folder>
+        <folder name="tasks">
+            <file name="backup.dita"/>
+            <file name="emergency.dita"/>
+            <file name="monitoring.dita"/>
+            <file name="support.dita"/>
+            <file name="turn_off.dita"/>
+        </folder>
+        <file name="map.ditamap"/>
+    </projectTree>
+</project>

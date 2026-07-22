@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<reference id="overview">
+    <title>Powerwall 3 Overview</title>
+    <shortdesc>Components and features of the Powerwall 3 unit.</shortdesc>
+    
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Powerwall 3</keyword>
+                <keyword>components</keyword>
+                <keyword>intake</keyword>
+                <keyword>exhaust</keyword>
+                <keyword>switch</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <refbody>
+        
+        <section id="components">
+            <title>Components and Features</title>
+            
+            <table>
+                <tgroup cols="2">
+                    <colspec colname="Component" colwidth="1*"/>
+                    <colspec colname="Name" colwidth="2*"/>
+                    <thead>
+                        <row>
+                            <entry>Component/Feature</entry>
+                            <entry>Name</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>1</entry>
+                            <entry>LED Indicator</entry>
+                        </row>
+                        <row>
+                            <entry>2</entry>
+                            <entry>On/Off Switch</entry>
+                        </row>
+                        <row>
+                            <entry>3</entry>
+                            <entry>Air Intake</entry>
+                        </row>
+                        <row>
+                            <entry>4</entry>
+                            <entry>Air Exhaust</entry>
+                        </row>
+                        <row>
+                            <entry>5</entry>
+                            <entry>System Shutdown Switch (optional)<sup>1</sup></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            
+            <note type="note">
+                <p>The On/Off Switch and optional System Shutdown Switch both act as Rapid Shutdown (RSD) initiators. These switches are used by emergency responders to trigger rapid shutdown of the solar array in the event of an emergency.</p>
+            </note>
+            
+            <image href="https://service.tesla.com/docs/Public/Energy/Powerwall/Powerwall-3-Owners-Manual-NA-EN/GUID-05FC1953-624E-4104-8C40-09F464B1FCA9-online-en-US.png" format="png" scope="external"/>
+        </section>
+        
+    </refbody>
+</reference>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="Powerwall 3 Owner's Manual">
+    
+    <topicref href="concepts/safety.dita"/>
+    <topicref href="concepts/warranty.dita"/>
+    <topicref href="concepts/care.dita"/>
+    
+    <topichead navtitle="About Powerwall 3">
+        <topicref href="concepts/design.dita"/>
+        <topicref href="reference/components.dita"/>
+        <topicref href="reference/overview.dita"/>
+    </topichead>
+    
+    <topicref href="concepts/operation.dita">
+        <topicref href="tasks/monitoring.dita"/>
+        <topichead navtitle="Troubleshooting">
+            <topicref href="tasks/turn_off.dita"/>
+            <topicref href="tasks/backup.dita"/>
+        </topichead>
+        <topicref href="tasks/support.dita"/>
+    </topicref>
+    
+    <topicref href="tasks/emergency.dita"/>
+    <topicref href="concepts/info.dita"/>
+    
+</map>

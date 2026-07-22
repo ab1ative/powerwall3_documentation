@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="powerwall3-safety-instructions">
+    <title>Important Safety Instructions</title>
+    <shortdesc>SAVE THESE IMPORTANT SAFETY INSTRUCTIONS</shortdesc>
+    
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Powerwall 3</keyword>
+                <keyword>safety</keyword>
+                <keyword>warning</keyword>
+                <keyword>installation</keyword>
+                <keyword>high voltage</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <conbody>
+        
+        <p>Powerwall 3 installation and service require knowledge of high voltage electricity and should only be performed by Tesla Certified Installers. Tesla assumes no liability for injury or property damage due to repairs attempted by unqualified individuals or a failure to properly follow these instructions. These warnings and cautions must be followed when using Powerwall 3.    
+        </p>
+        
+        <section id="symbols">
+            <title>Symbols in This Document</title>
+            <note type="warning">
+                <p>indicates a hazardous situation which, if not avoided, could result in injury or death.
+                </p>
+            </note>
+            <note type="caution">
+                <p>indicates a hazardous situation which, if not avoided, could result in minor injury or damage to the equipment.
+                </p>
+            </note>
+            <note type="note">
+                <p>indicates an important step or tip that leads to best results, but is not safety or damage related.
+                </p>
+            </note>
+        </section>
+        
+        <section id="general">
+            <title>General Information</title>
+            
+            <note type="warning">
+                <p>Read this entire document before installing or using Powerwall 3. Failure to do so or to follow any of the instructions or warnings in this document can result in electrical shock, serious injury, or death, or can damage Powerwall 3, potentially rendering it inoperable.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Electric shock hazard. The DC conductors of any connected PV system are normally ungrounded but will become intermittently grounded without indication when the inverter measures the PV array isolation. Disconnect all sources of supply before servicing.</p>
+            </note>
+            
+            <note type="warning">
+                <p>A battery can present a risk of electrical shock, fire, or explosion from vented gases. Observe proper precautions.</p>
+            </note>
+            
+            <note type="warning">
+                <p>This product can expose you to chemicals including cobalt and lithium compounds known to the State of California to cause cancer and birth defects or other reproductive harm. For more information, visit www.P65Warnings.ca.gov. Only members of the Tesla Service team and Tesla-certified technicians should open the external casing.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Powerwall 3 installation must be carried out only by Tesla Certified Installers trained in dealing with high voltage electricity.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Powerwall 3 is heavy. Use of lift equipment is recommended.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Use Powerwall 3 only as directed.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Do not use Powerwall 3 if it is defective, appears cracked, broken, or otherwise damaged, or fails to operate.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Before beginning the wiring portion of the installation, ensure that Powerwall 3 is switched off, and open any associated circuit breakers and disconnect switches.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Do not attempt to open, disassemble, repair, tamper with, or modify Powerwall 3. Powerwall 3 and its components are not user serviceable. Batteries in Powerwall are not replaceable. Contact Tesla Support or the Certified Installer who installed the system for any repairs.</p>
+            </note>
+            
+            <note type="warning">
+                <p>When transporting Powerwall 3, handle with care. Do not impact, pull, drag, or step on Powerwall 3. Do not subject Powerwall 3 to any strong force. Leave Powerwall 3 in its shipping packaging until it is ready to be installed.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Do not insert foreign objects into any part of Powerwall 3.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Do not expose Powerwall 3 or its components to direct flame.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Do not install Powerwall 3 near heating equipment.</p>
+            </note>
+            
+            <note type="warning">
+                <p>Do not immerse Powerwall 3 or its components in water or other fluids.</p>
+            </note>
+            
+            <note type="caution">
+                <p>Powerwall is not designed nor warrantied for non-stationary applications.</p>
+            </note>
+            
+            <note type="caution">
+                <p>Risk of electric shock. Do not remove cover, there are no user serviceable parts
+                    inside. Refer servicing to qualified personnel.</p>
+            </note>
+            
+            <note type="caution">
+                <p>Both AC and DC voltage sources may be terminated inside this equipment. Each circuit must be individually disconnected before servicing.</p>
+            </note>
+            
+            <note type="caution">
+                <p>When the PV array is exposed to light, it supplies a DC voltage to this equipment.</p>
+            </note>
+            
+            <note type="caution">
+                <p>Do not use cleaning solvents to clean Powerwall 3, or expose Powerwall 3 to flammable or harsh chemicals or vapors.</p>
+            </note>
+            
+            <note type="caution">
+                <p>Do not use fluids, parts, or accessories other than those specified in this manual, including non-genuine Tesla parts or accessories not purchased directly from Tesla or a Tesla-certified party.</p>
+            </note>
+            
+            <note type="caution">
+                <p>Do not place Powerwall 3 in a storage condition for more than one month, or permit the electrical feed to be severed for more than one month. Contact your installer for more information if needed.</p>
+            </note>
+            
+            <note type="caution">
+                <p>Do not paint any part of Powerwall 3, including any internal or external components such as the exterior shell or casing.</p>
+            </note>
+            
+            <note type="caution">
+                <p>When installing Powerwall 3 in a garage or near vehicles, keep it out of the driving path. If possible, install Powerwall 3 on a side wall and/or above the height of vehicle bumpers.</p>
+            </note>
+            
+        </section>
+        
+        <section id="environmental">
+            <title>Environmental Conditions</title>
+            
+            <note type="warning">
+                <p>Install Powerwall 3 in a location that prevents damage from flooding.</p>
+            </note>
+            
+            <note type="caution">
+                <p>Operating or storing Powerwall 3 in temperatures outside its specified range might cause damage to Powerwall.</p>
+            </note>
+            
+            <note type="caution">
+                <p>Ensure that no water sources are above or near Powerwall 3, including downspouts, sprinklers, or faucets.</p>
+            </note>
+            
+            <note type="caution">
+                <p>Ensure that snow does not accumulate around Powerwall 3.</p>
+            </note>         
+        </section>
+        
+        <section id="fcc">
+            <title>FCC Compliance</title>
+            <p>This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.</p>
+        </section>
+        
+        <section id="rf">
+            <title>RF Exposure Information (MPE)</title>
+            <p>This device has been tested and meets applicable limits for Radio Frequency (RF) exposure. This equipment should be installed and operated with minimum distance 20 cm between the radiator and your body.
+            </p>
+        </section>
+        
+        <section id="ised">
+            <title>ISED Canada Compliance Statement</title>
+            <p>This device contains licence-exempt transmitter(s)/receiver(s) that comply with Innovation, Science and Economic Development Canada’s licence-exempt RSS(s). Operation is subject to the following two conditions: (1) this device may not cause interference, and (2) this device must accept any interference, including interference that may cause undesired operation of the device.
+            </p>
+            <p>The device for operation in the band 5150–5250 MHz is only for indoor use to reduce the potential for harmful interference to co-channel mobile satellite systems.
+            </p>
+        </section>
+    </conbody>
+</concept>
