@@ -16,22 +16,39 @@ and ditamap assembly. All content is sourced from Tesla's public documentation.
 ## Repository Structure
 
 ├── powerwall3.ditamap
+
 ├── concepts/
+
 │ ├── safety.dita — Important Safety Instructions
+
 │ ├── warranty.dita — Powerwall 3 Warranty
+
 │ ├── care.dita — Care and Maintenance
+
 │ ├── design.dita — System Design
+
 │ └── operation.dita — System Operation
+
 ├── reference/
+
 │ ├── components.dita — System Components
+
 │ ├── overview.dita — Powerwall 3 Overview (annotated diagram)
+
 │ ├── led_reference.dita — LED Indicator States
+
 │ └── info.dita — System Information
+
 └── tasks/
+
 ├── monitoring.dita — Monitoring Your System
+
 ├── turn_off.dita — Turning the System Off
+
 ├── backup.dita — Backup Troubleshooting
+
 ├── support.dita — Technical Support
+
 └── emergency.dita — What to Do in Case of an Emergency
 
 ## Topic Types
